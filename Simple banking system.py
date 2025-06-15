@@ -3,6 +3,7 @@ accounts = {
     "gamal": {"email": "gamal@example.com", "balance": 2},
     "helal": {"email": "helal@example.com", "balance": 3}
 }
+# test 
 
 
 name = input("Enter your name: ")
